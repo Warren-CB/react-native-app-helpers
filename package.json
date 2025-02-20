@@ -8,7 +8,7 @@
   "engineStrict": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jameswilddev/react-native-app-helpers"
+    "url": "https://github.com/Warren-CB/react-native-app-helpers"
   },
   "publishConfig": {
     "access": "public"
